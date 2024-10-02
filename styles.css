@@ -1,4 +1,4 @@
-.Transition {
+.transition {
   background-color: green;
   color: white;
   padding: 1rem 2rem;
@@ -9,7 +9,7 @@
   transition-timing-function: ease-in-out;
   
 }
-.Transition:hover {
+.transition:hover {
   background-color: aqua;
   color: yellowgreen;
   scale: 1.1;
